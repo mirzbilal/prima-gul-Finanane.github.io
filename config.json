@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "title": "DeepSeek Coder",
+      "provider": "deepseek",
+      "model": "deepseek-coder",
+      "apiKey": "sk-802b731a7c6e470c8dd475ce2d9dc6cd"
+    },
+    {
+      "title": "DeepSeek Chat",
+      "provider": "deepseek",
+      "model": "deepseek-chat",
+      "apiKey": "sk-802b731a7c6e470c8dd475ce2d9dc6cd"
+    }
+  ],
+  "tabAutocompleteModel": {
+    "title": "DeepSeek Coder",
+    "provider": "deepseek",
+    "model": "deepseek-coder",
+    "apiKey": "sk-802b731a7c6e470c8dd475ce2d9dc6cd"
+  }
+}
